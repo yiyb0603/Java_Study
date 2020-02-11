@@ -16,7 +16,6 @@ public class FunctionExample2 {
         int result = function(3050, 10);
         if (result == -1) {
             System.out.println("3050의 10번째 약수는 없습니다.");
-            // test
         }
 
         else {

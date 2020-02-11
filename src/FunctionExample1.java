@@ -31,7 +31,6 @@ public class FunctionExample1 {
             }
         }
         return -1;
-        // test
     }
     public static void main(String[] args) {
         System.out.println("(400, 300, 750)의 최대공약수: " + function(400, 300, 750));
