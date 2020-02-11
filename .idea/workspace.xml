@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e1fc1d2-6429-49d6-abb2-e983a0a30e38" name="Default Changelist" comment="" />
+    <list default="true" id="4e1fc1d2-6429-49d6-abb2-e983a0a30e38" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Helloworld111/Contains.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Helloworld111/Equals.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Helloworld111/FunctionExample1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Helloworld111/FunctionExample2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Helloworld111/FunctionExample3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Helloworld111/FunctionExample4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Helloworld111/RightTriangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Helloworld111/gradecard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Study/FunctionExample4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Study/FunctionExample4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Equals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Equals.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +28,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XHTdVOy8tVVPbtPc3zQrtt4ORL" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,49 +42,57 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.Contains">
+  <component name="RunManager" selected="Application.FunctionExample1">
     <configuration name="Contains" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Contains" />
-      <module name="Helloworld111" />
+      <module name="Java_Study" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunctionExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FunctionExample1" />
+      <module name="Java_Study" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="FunctionExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FunctionExample2" />
-      <module name="Helloworld111" />
+      <module name="Java_Study" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="FunctionExample3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FunctionExample3" />
-      <module name="Helloworld111" />
+      <module name="Java_Study" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="FunctionExample4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FunctionExample4" />
-      <module name="Helloworld111" />
+      <module name="Java_Study" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RightTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="RightTriangle" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="RightTriangle" />
-      <module name="Helloworld111" />
+      <module name="Java_Study" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FunctionExample1" />
         <item itemvalue="Application.Contains" />
-        <item itemvalue="Application.RightTriangle" />
         <item itemvalue="Application.FunctionExample4" />
         <item itemvalue="Application.FunctionExample3" />
         <item itemvalue="Application.FunctionExample2" />
@@ -85,33 +113,65 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="139" key="GridCell.Tab.0.bottom" timestamp="1581410289727">
+    <state x="485" y="72" key="#Contains" timestamp="1581411986243">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="139" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581410289727" />
-    <state width="1493" height="139" key="GridCell.Tab.0.center" timestamp="1581410289727">
+    <state x="485" y="72" key="#Contains/0.0.1536.824@0.0.1536.824" timestamp="1581411986243" />
+    <state x="485" y="72" key="#FunctionExample2" timestamp="1581412009728">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="139" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581410289727" />
-    <state width="1493" height="139" key="GridCell.Tab.0.left" timestamp="1581410289726">
+    <state x="485" y="72" key="#FunctionExample2/0.0.1536.824@0.0.1536.824" timestamp="1581412009728" />
+    <state x="485" y="72" key="#FunctionExample3" timestamp="1581412015717">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="139" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581410289726" />
-    <state width="1493" height="139" key="GridCell.Tab.0.right" timestamp="1581410289727">
+    <state x="485" y="72" key="#FunctionExample3/0.0.1536.824@0.0.1536.824" timestamp="1581412015717" />
+    <state x="485" y="72" key="#FunctionExample4" timestamp="1581412022500">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="139" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581410289727" />
+    <state x="485" y="72" key="#FunctionExample4/0.0.1536.824@0.0.1536.824" timestamp="1581412022500" />
+    <state x="485" y="72" key="#RightTriangle" timestamp="1581412001661">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="485" y="72" key="#RightTriangle/0.0.1536.824@0.0.1536.824" timestamp="1581412001661" />
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581411814064">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1581411814064" />
+    <state x="498" y="197" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1581411808760">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="197" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1581411808760" />
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1581411705406">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1581411705406" />
+    <state width="1493" height="139" key="GridCell.Tab.0.bottom" timestamp="1581412068788">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="139" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581412068788" />
+    <state width="1493" height="139" key="GridCell.Tab.0.center" timestamp="1581412068787">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="139" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581412068787" />
+    <state width="1493" height="139" key="GridCell.Tab.0.left" timestamp="1581412068787">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="139" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581412068787" />
+    <state width="1493" height="139" key="GridCell.Tab.0.right" timestamp="1581412068787">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="139" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581412068787" />
     <state x="277" y="56" key="SettingsEditor" timestamp="1580703092515">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1580703092515" />
-    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1581408133219">
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1581411610740">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1581408133219" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1581408560681">
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1581411610740" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1581411541888">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1581408560681" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1581411541888" />
   </component>
 </project>
