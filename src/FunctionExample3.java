@@ -1,6 +1,7 @@
 import java.util.Scanner;
 public class FunctionExample3 {
     /* 예제: 전달받은 문자열의 마지막 단어 찾기 */
+    // test
     public static char function (String input) {
         return input.charAt(input.length() - 1);
         // 배열에서의 길이는 .length, 문자열에서의 길이는 .length()를 써야한다.

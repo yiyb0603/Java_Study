@@ -11,7 +11,8 @@ public class Equals {
         }
 
         else {
-            System.out.println("남자가 아닙니다sss.");
+            System.out.println("남자가 아닙니다.");
+            // test
         }
 
         if (b == 3) {

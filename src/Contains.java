@@ -3,6 +3,7 @@ public class Contains {
         String a = "I Love You";
         if (a.contains("Love")) {
             // a 문장이 "Love"를 포함하고 있을때 실행하는 문장
+            // test
             System.out.println("Me too.");
         }
 
